@@ -1,4 +1,23 @@
 
+  		-Integrantes- 
+      •	Alejandro Alberto Martin Rozas 
+      •	Alizon Noelia Gamboa Garcia 
+      •	Facundo Gorostiaga 
+      •	Jonatan Scarone 
+      •	Leandro Robles 
+      •	Marian Testado 
+      •	Nicolas Romero 
+      •	Sofia Belucci 
+      •	Rodrigo Nahuel Guggiana 
+      •	Leandro Merino   		
+      
+      -Brief-  
+      
+      Al iniciar la simulacion el display mostrara un 9 y una variable contador con el mismo valor, con cada pulsacion del pulsador el contador decrece en uno 
+      y el display refleja el valor de la variable contador.  La lampara se va a encender cada vez que el contador toque un numero par y el proyecto cuenta tambien 
+      con un buzzer el cual emite sonido cada vez que la cuenta atraz llegue a 0.  Al caer el contador a -1 se reinicia a 9 para repetir la cuenta atraz.  
+      Se intento implementar una melodia con el buzzer pero debido a la falta de la libreria en tinkercad para crear los tonos nos vimos obligados a hacer 
+      sonar el buzzer por defecto.
 
 https://onlinegdb.com/lwgeVOYn5
 https://www.tinkercad.com/things/jXANI8gILPX-copy-of-clase-03-display-7-segmentos-catodo-comun/editel?sharecode=v-9keqG-0PfUgirUW7E_DFBnumXMKMyemyz0EvA7i6E
